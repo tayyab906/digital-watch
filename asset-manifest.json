@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/digital-watch/static/css/main.a617e044.chunk.css",
+    "main.js": "/digital-watch/static/js/main.58dec71b.chunk.js",
+    "main.js.map": "/digital-watch/static/js/main.58dec71b.chunk.js.map",
+    "runtime-main.js": "/digital-watch/static/js/runtime-main.c530bfb4.js",
+    "runtime-main.js.map": "/digital-watch/static/js/runtime-main.c530bfb4.js.map",
+    "static/js/2.7245f62a.chunk.js": "/digital-watch/static/js/2.7245f62a.chunk.js",
+    "static/js/2.7245f62a.chunk.js.map": "/digital-watch/static/js/2.7245f62a.chunk.js.map",
+    "index.html": "/digital-watch/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/digital-watch/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.7245f62a.chunk.js.LICENSE.txt": "/digital-watch/static/js/2.7245f62a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c530bfb4.js",
+    "static/js/2.7245f62a.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.58dec71b.chunk.js"
+  ]
+}
